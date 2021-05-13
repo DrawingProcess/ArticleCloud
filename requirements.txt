@@ -1,4 +1,6 @@
 wordcloud
+numpy
+matplotlib
 requests
 flask==1.1.2
 requests==2.25.0
