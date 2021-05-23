@@ -1,15 +1,15 @@
-# Generate Article
+# Generate Article Wordcloud
 
 [![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/DrawingProcess/ArticleCloud)
 
-[Generate Article](https://master-article-cloud-drawing-process.endpoint.ainize.ai) | [Generate Article](https://github.com/DrawingProcess/ArticleCloud) | [Generate Article on Ainize](https://ainize.ai/DrawingProcess/ArticleCloud?branch=master)
+[Generate Article Wordcloud](https://master-article-cloud-drawing-process.endpoint.ainize.ai) | [Generate Article Wordcloud](https://github.com/DrawingProcess/ArticleCloud) | [Generate Article Wordcloud on Ainize](https://ainize.ai/DrawingProcess/ArticleCloud?branch=master)
 
 ## Prerequired 
 
 - python3
 
-### Generate Article
-Generate Article maked simply rather then TabTab. but It have a same flask server and well done!
+### Generate Article Wordcloud
+Generate Article Wordcloud maked simply rather then TabTab. but It have a same flask server and well done!
 
 #### Usage
 ```bash
